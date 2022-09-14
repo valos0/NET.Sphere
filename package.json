@@ -1,0 +1,22 @@
+{
+  "name": "net.sphere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valos0/NET.Sphere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valos0/NET.Sphere/issues"
+  },
+  "homepage": "https://github.com/valos0/NET.Sphere#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
