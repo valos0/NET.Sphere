@@ -1,0 +1,16 @@
+{
+ 	"token": "MTAyMDAxMjMyasMDcxNTQ1MjQyNw.GraCEJ.mB01VMcEpEdcm6K_JxS_Xwu78WlaE6ltz6mnbA",
+ 	"sellix_auth": "3eCj8ZloawQyJXKC9kShcb9qZSgKM1aDrIx6St4W77rBtfrsPvxjSXonKaPDii5T72",
+ 	"prefix": "/",
+ 	"admins": [
+ 	 	"72035399870765422000",
+ 	 	""
+ 	],
+ 	"webhook_channels": {
+ 	 	"default": "102011963140238668773,"
+ 	},
+ 	"role_to_give": "102012108212218434652",
+ 	"nicknames": {
+ 	 	"exampleProduct": "6abc7476103id"
+ 	}
+}

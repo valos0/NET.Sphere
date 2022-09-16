@@ -1,22 +1,22 @@
 {
-  "name": "net.sphere",
+  "name": "vouch-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/valos0/NET.Sphere.git"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "node config.js",
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/valos0/NET.Sphere/issues"
-  },
-  "homepage": "https://github.com/valos0/NET.Sphere#readme",
   "dependencies": {
-    "discord.js": "^14.3.0"
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.4",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "inquirer": "^8.1.2",
+    "sellix-api-wrapper": "^1.0.7",
+    "sqlite3": "^5.0.2"
   }
 }
