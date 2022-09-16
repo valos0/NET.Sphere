@@ -3,7 +3,7 @@ const {
 } = require("discord.js")
 
 module.exports = {
-    name: "reputation",
+    name: "rep",
     description: "View the reputation of a user",
     aliases: ['rep'],
     execute: async function (message, args, client, user) {

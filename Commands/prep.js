@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 
 module.exports = {
-    name: "vouch",
+    name: "+rep",
     description: "Vouch for a user",
     aliases: ['upvote'],
     execute: async function (message, args, client, user) {

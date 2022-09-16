@@ -1,16 +1,4 @@
 {
-    "token": "MTAyMDAxMjMyMDcxNTQ1MjQyNw.GraCEJ.mB01VMcEpEdcm6K_JxS_Xwu78WlaE6ltz6mnbA",
-    "sellix_auth": "3eCj8ZloQyJXKC9kShcb9qZSgKM1aDrIx6St4W77rBtfrsPvxjSXonKaPDii5T72",
-    "prefix": "/",
-    "admins": [
-        "720353998707622000",
-        ""
-    ],
-    "webhook_channels": {
-        "default": "1020119631408668773,"
-    },
-    "role_to_give": "1020121082218434652",
-    "nicknames": {
-        "exampleProduct": "6abc74103id"
-    }
+    "token":"MTAyMDAxMjMyMDcxNTQ1MjQyNw.GraCEJ.mB01VMcEpEdcm6K_JxS_Xwu78WlaE6ltz6mnbA",
+    "prefix":"/"
 }

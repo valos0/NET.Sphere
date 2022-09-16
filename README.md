@@ -1,7 +1,7 @@
 # Net.Sphere
 
 rep bot
-integrated with sellix-discrod-bot by @fsalinas26
+
 
 
 
