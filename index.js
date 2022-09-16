@@ -1,10 +1,10 @@
 const Discord = require('discord.js'),
     Enmap = require('enmap')
 const fs = require('fs');
-const config = require('./config.json');
+//const config = require('./config.json');
 const webhook = require('./webhook/webhook');
-const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] })
-client.commands = new Discord.Collection();
+//const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] })
+//client.commands = new Discord.Collection();
 
 const db_create = require('./database/createDB');
 db_create.create();
